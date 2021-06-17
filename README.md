@@ -4,7 +4,7 @@ Checker for expressions in .txt files based on Japanese Sentiment Polarity Dicti
 # Requirement
  
 * Python 3.7.6
-* beautifulsoup4
+* beautifulsoup4 4.9.3
 
 # Usage
 The main usage is like below!
